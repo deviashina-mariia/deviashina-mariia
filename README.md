@@ -1,4 +1,13 @@
 ### Hi there 👋
+## Меня зовут Девяшина Мария 🙋
+Имею большой опыт сбора, анализа и систематизации данных, решения рутинных задач, общения с заказчиками для уточнения поставленной задачи и определения особенностей бизнес-процессов. Внимательна, педантична, рациональна. Решила расширить свои знания и область применения своего опыта и окончила курс Специалист по Data Science на Яндекс Практикуме. 
+### Инструменты:
+Python 3, SQL, Pandas, Numpy, SciPy, Scikit-learn, Matpotlib, Seaborn, Plotly, XGBoost, CatBoost, LightGBM, TensorFlow, Keras, NLTK
+### Методы:
+Linear Regression, Logistic Regression, Density Estimation, Test of Hypotheses, Clustering, Time Series, Decision Trees, Principal Component Analysis, Ensembles, Neural Networks, Linkage Analysis, Cross-Validation, Support Vector Machine, Nearest Neighbors
+### Контакты для связи:
+  - devasina.mary@gmail.com
+  - https://t.me/deviashina_mariia
 
 <!--
 **deviashina-mariia/deviashina-mariia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
